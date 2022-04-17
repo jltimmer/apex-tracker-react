@@ -1,3 +1,7 @@
+# Apex Stat Tracker
+
+React app that enables users to search stats for players on Apex Legends.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
